@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424845780577",
+    "project_id": "hakdroid-7dbf9",
+    "storage_bucket": "hakdroid-7dbf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424845780577:android:f0d571288141326024ac20",
+        "android_client_info": {
+          "package_name": "com.example.sport_rental_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424845780577-jeprh87oqdfv76redbq7k0psh23p3kv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-2KJzpYA5VmB9hhekICI1aXfDqRbSUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424845780577-jeprh87oqdfv76redbq7k0psh23p3kv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
